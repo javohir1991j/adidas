@@ -1,0 +1,322 @@
+@media(max-width:1200px) {
+    .catigories__list {
+        padding-right: 50px;
+    }
+
+    .header__bottom {
+        width: 100%;
+    }
+
+    .adidas__text {
+        width: 1000px;
+    }
+}
+
+@media(max-width:1000px) {
+    .adidas__text {
+        width: 900px;
+    }
+
+    .header__bottom {
+        width: 100%;
+    }
+
+    .catigories__list {
+        padding-right: 150px;
+
+    }
+}
+
+@media(max-width:910px) {
+    .adidas__text {
+        width: 800px;
+    }
+}
+
+@media(max-width:864px) {
+    .catigories__item {
+        padding-right: 160px;
+    }
+    .header__bottom{
+        height: 720px;
+    }
+    .adidas{
+        padding: 30px 0;
+    }
+    .catigories {
+        padding: 30px 0;
+    }
+}
+
+@media(max-width:830px) {
+    .catigories__list {
+        padding-right: 250px;
+    }
+
+    .adidas__text {
+        width: 700px;
+    }
+    .header__bottom{
+      height: 700px;
+    }
+    .adidas{
+        padding: 25px 0;
+    }
+    .catigories {
+        padding: 25px 0;
+    }
+}
+
+@media(max-width:755px) {
+    .catigories__item {
+        padding-right: 150px;
+        padding-left: 150px;
+    }
+
+    .adidas__text {
+        width: 650px;
+    }
+    .header__bottom{
+        height: 650px;
+    }
+}
+
+@media(max-width:665px) {
+    .header__input {
+        width: 130px;
+    }
+
+    .nav {
+        justify-content: space-evenly;
+    }
+
+    .adidas__text {
+        width: 550px;
+    }
+    .adidas{
+        padding: 22px 0;
+    }
+    .catigories {
+        padding: 22px 0;
+    }
+}
+
+@media(max-width:585px) {
+    .catigories__list {
+        padding-left: 1px;
+    }
+
+    .header__link {
+        padding: 30px 5px;
+    }
+
+    .adidas__text {
+        width: 500px;
+
+    }
+
+    .catigories__item {
+        padding-right: 300px;
+        padding-left: 50px;
+    }
+
+    .header__bottom {
+        height: 700px;
+    }
+    .adidas{
+        padding: 20px 0;
+    }
+    .catigories {
+        padding: 20px 0;
+    }
+}
+
+@media(max-width:525px) {
+    .nav {
+        padding: 0 10px;
+    }
+
+    .catigories__item {
+        padding-right: 300px;
+        padding-left: 50px;
+    }
+
+    .header__bottom {
+        height: 700px;
+    }
+    .adidas{
+        padding: 19px 0;
+    }
+    .catigories {
+        padding: 19px 0;
+    }
+}
+
+@media(max-width:505px) {
+    .catigories__item {
+        padding-right: 300px;
+        padding-left: 50px;
+    }
+
+    .header__bottom {
+        height: 550px;
+    }
+
+    .adidas__text {
+        width: 400px;
+    }
+    .header__img{
+        width: 220px;
+    }
+    .header__title{
+        font-size: 55px;
+        line-height: 35px;
+    }
+    .products__name{
+        font-size: 15px;
+    }
+    .adidas{
+        padding: 18px 0;
+    }
+    .catigories {
+        padding: 18px 0;
+    }
+}
+
+@media(max-width:478px) {
+    .header__link {
+        font-size: 12px;
+    }
+
+    .nav {
+        padding: 0 5px;
+    }
+
+    .header__bottom {
+        height: 500px;
+    }
+
+    .catigories__item {
+        padding-left: 20px;
+    }
+    .header__img{
+        width: 200px;
+    }
+    .header__title{
+        font-size: 50px;
+        line-height: 30px;
+    }
+    .adidas{
+        padding: 15px 0;
+    }
+    .catigories {
+        padding: 15px 0;
+    }
+}
+
+@media(max-width:455px) {
+    .catigories__item {
+        padding-left: 10px;
+    }
+
+    .header__bottom {
+        height: 450px;
+    }
+
+    .section__title {
+        font-size: 17px;
+    }
+
+    .producs__img {
+        width: 90px;
+    }
+    .footer__list{
+        gap: 15px;
+    }
+    .header__img{
+        width: 200px;
+    }
+    .header__title{
+        font-size: 50px;
+        line-height: 30px;
+    }
+    .adidas{
+        padding: 15px 0;
+    }
+    .catigories {
+        padding: 15px 0;
+    }
+}
+
+@media(max-width:425px) {
+    .header__link {
+        font-size: 11px;
+    }
+
+    .nav {
+        padding: 0 2px;
+    }
+
+    .header__input {
+        width: 100px;
+    }
+
+    .producs__img {
+        width: 90px;
+    }
+
+    .adidas__text {
+        width: 350px;
+    }
+    .logo__item {
+        padding-right: 20px;
+    }
+    .footer__list{
+        gap: 15px;
+    }
+    .header__img{
+        width: 190px;
+    }
+    .header__title{
+        font-size: 46px;
+        line-height: 25px;
+    }
+    .adidas{
+        padding: 12px 0;
+    }
+    .catigories {
+        padding: 12px 0;
+    }
+}
+
+@media(max-width:390px) {
+    .catigories {
+        padding: 10px 0;
+    }
+
+    .header__btn {
+        padding: 8px 5px;
+    }
+
+    .header__input {
+        width: 80px;
+    }
+
+    .products__name {
+        font-size: 15px;
+
+    }
+    .footer__list{
+        gap: 15px;
+    }
+    .header__img{
+        width: 170px;
+    }
+    .header__title{
+        font-size: 43px;
+        line-height: 20px;
+    }
+    .adidas{
+        padding: 10px 0;
+    }
+}
